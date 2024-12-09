@@ -37,8 +37,7 @@
     <p>© 2024 Retro Performance Garage. All rights reserved.</p>
   </footer>
 </body>
-</html>
-/* General Reset */
+</html>/* General Reset */
 * {
   margin: 0;
   padding: 0;
