@@ -21,24 +21,7 @@
   <header class="hero">
     <h1>Dobrodošli v Retro Performance Garage</h1>
     <p>Specialisti za obnovo avtomobilov in motorjev Tomos</p>
-    <a href="#contact">Kontaktiraj nas</a>
-  </header>
-
-  <main>
-    <section class="features">
-      <h2>Naše storitve</h2>
-      <p><strong>Obnova avtomobilov:</strong> Vrhunska storitev za popolno obnovo vašega vozila.</p>
-      <p><strong>Specialisti za Tomos:</strong> Popolna obnova in prilagoditve motorjev Tomos.</p>
-    </section>
-
-    <section id="contact" class="contact">
-      <h2>Kontakt</h2>
-      <p>Email: <a href="mailto:bor.cvetko13@gmail.com">bor.cvetko13@gmail.com</a></p>
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2024 Retro Performance Garage. Vse pravice pridržane.</p>
-  </footer>
-</body>
-</html>
+    <a href=
+  
+    class="features">
+    
