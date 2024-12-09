@@ -26,11 +26,9 @@
       </div>
     </section>
 
-    <section id="contact" class="contact">
-      <h2>Contact Us</h2>
-      <p>Email: <a href="mailto:bor.cvetko13@gmail.com">bor.cvetko13@gmail.com</a></p>
-      <!-- Add phone/address details here -->
-    </section>
+    
+      <p>Email bor.cvetko13@gmail.com</
+      
   </main>
 
   <footer>
